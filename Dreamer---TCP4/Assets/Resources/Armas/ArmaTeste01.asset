@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd62e7ff3f96fa74b8cce5715676fe25, type: 3}
+  m_Name: ArmaTeste01
+  m_EditorClassIdentifier: 
+  nome: Pistola pew pew
+  imagem: {fileID: 21300000, guid: 136d946d0d4a0be4bbdbc9dcebb732a2, type: 3}
+  danoArma: 6
+  balasMaximas: 10
+  velocidadeDeAtirar: 0.1
+  velocidadeDoTiro: 5
+  quantidadeDeTiros: 5
+  ArmaNoJogo: {fileID: 21300000, guid: a70c37810cab97c49a1b0d877e9f0731, type: 3}

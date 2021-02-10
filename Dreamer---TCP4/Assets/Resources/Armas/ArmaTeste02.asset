@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd62e7ff3f96fa74b8cce5715676fe25, type: 3}
+  m_Name: ArmaTeste02
+  m_EditorClassIdentifier: 
+  nome: Bolo
+  imagem: {fileID: 21300000, guid: 3cc93c058e08d1847a0e44ad1c8a2bb1, type: 3}
+  danoArma: 18
+  balasMaximas: 6
+  velocidadeDeAtirar: 0.3
+  velocidadeDoTiro: 2.5
+  quantidadeDeTiros: 2
+  ArmaNoJogo: {fileID: 21300000, guid: 8cc22156a52ac5c43ab79b779d5481f0, type: 3}
